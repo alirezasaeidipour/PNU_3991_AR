@@ -3,11 +3,25 @@
 ### علیرضا سعیدی پور
  
 ---
-- [حساب گیت هاب](https://github.com/alirezasaeidipour)
-
-- [رزومه](https://alirezasaeidipour.github.io)
-
+- [PNU_3991_AR](https://github.com/alirezasaeidipour/PNU_3991_AR)
+- [Resume](https://alirezasaeidipour.github.io) 
 - [SOP](https://alirezasaeidipour.github.io/SOP/)
+- [Certificate (JAVA)](https://alirezasaeidipour.github.io/Certificates/java/)
+- [Certificate (JavaScript)](https://alirezasaeidipour.github.io/Certificates/javascript/)
+- [Certificate (patchwork)](https://alirezasaeidipour.github.io/Certificates/patchwork/)
+- [GitHub](https://github.com/alirezasaeidipour)
+------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/_General/AS_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/_General/AS_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس ارشد
+- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareArchitecture/SZ_SoftwareArchitecture_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_سمینار]()
 
 ------------------
 ## Winter Semester Courses 1399/2020
