@@ -19,7 +19,7 @@
 
 ### Presentation
 
-   -  [Methodology Comparisons](https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/28.%20Methodology%20Comparisons/28.%20Methodology%20Comparisons.mp4)
+   -  [Methodology Comparisons](https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/28.%20Methodology%20Comparisons)
      
 ----------------------------
 ## گروه 
