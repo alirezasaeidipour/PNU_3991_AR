@@ -6,7 +6,8 @@
 - [PNU_3991_AR](https://github.com/alirezasaeidipour/PNU_3991_AR)
 - [Resume](https://alirezasaeidipour.github.io) 
 - [SOP](https://alirezasaeidipour.github.io/SOP/)
-- [Certificates](https://alirezasaeidipour.github.io/Certificates/)
+- [Certificate (JAVA)](https://alirezasaeidipour.github.io/Certificates/java/)
+- [Certificate (JavaScript)](https://alirezasaeidipour.github.io/Certificates/javascript/)
 - [GitHub](https://github.com/alirezasaeidipour)
 
 --------------------------
