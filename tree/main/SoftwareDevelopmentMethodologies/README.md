@@ -26,13 +26,13 @@
      
 -----------------
 ## Reading Page 21-26
-   - [Reading Record 1] (https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/Reading-Record%201.mp4)
-   - [Reading Record 2] (https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/Reading-Record%202.mp4)
-   - [Reading Record 3] (https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/Reading-Record%203.mp4)
-   - [Reading Record 4] (https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/Reading-Record%204.mp4)
-   - [Reading Record 5] (https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/Reading-Record%205.mp4)
-   - [Reading Record 6] (https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/Reading-Record%206.mp4)
-   - [Reading Record 7] (https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/Reading-Record%207.mp4)
+   - [Reading Record 1](https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/Reading-Record%201.mp4)
+   - [Reading Record 2](https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/Reading-Record%202.mp4)
+   - [Reading Record 3](https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/Reading-Record%203.mp4)
+   - [Reading Record 4](https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/Reading-Record%204.mp4)
+   - [Reading Record 5](https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/Reading-Record%205.mp4)
+   - [Reading Record 6](https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/Reading-Record%206.mp4)
+   - [Reading Record 7](https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/Reading-Record%207.mp4)
 
 ----------------------------
 ## گروه 
