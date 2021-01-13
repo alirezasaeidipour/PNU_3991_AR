@@ -15,13 +15,11 @@
 - [Get Student Info](https://github.com/alirezasaeidipour/get-student-info)
 
 -----------------
-## CHAPTER 24_People-oriented methodologies
+## CHAPTER 28. Methodology Comparisons
 
 ### Presentation
 
-   -  _01. [1.5_ETHICS](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies/24.%20Peopleoriented%20methodologies)
-   -  _02. [2.5_KADS](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies/24.%20Peopleoriented%20methodologies)
-   -  _03. [3.5_CommonKADS](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies/24.%20Peopleoriented%20methodologies)
+   -  [Methodology Comparisons](https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/28.%20Methodology%20Comparisons/28.%20Methodology%20Comparisons.mp4)
      
 ----------------------------
 ## گروه 
