@@ -19,7 +19,7 @@
 
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareDevelopmentMethodologies/AS_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس_معماری نرم افزار]()
+- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/alirezasaeidipour/PNU_3991_AR/blob/main/tree/main/SoftwareArchitecture/AS_SoftwareArchitecture_CheckList_AR_3991.pdf)
 
 ------------------
 ## Winter Semester Courses 1399/2020
